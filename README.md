@@ -1,3 +1,6 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=Emiliyanbrsv.Emiliyanbrsv)
+[![Github](https://img.shields.io/github/followers/Emiliyanbrsv?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+
 - 👋 Hi, I’m @Emiliyanbrsv
 - 🌱 I’m currently learning Python Fundamentals
 - 📫 How to reach me emiliyan.borisov28@gmail.com
