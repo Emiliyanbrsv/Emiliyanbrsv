@@ -3,8 +3,9 @@
 </p>
 
 - 👋 Hi, I’m @Emiliyanbrsv
-- 🌱 I’m currently learning Python Fundamentals
+- 🌱 I’m currently learning Python at SoftUni
 - 📫 How to reach me emiliyan.borisov28@gmail.com
+-    Instagram - emiliyanbrsv
 
 
 
