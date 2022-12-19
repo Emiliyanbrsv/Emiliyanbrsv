@@ -5,13 +5,14 @@
 - 👋 Hi, I’m @Emiliyanbrsv
 - 🌱 I’m currently learning Python at SoftUni
 - 📫 How to reach me emiliyan.borisov28@gmail.com
--    Instagram - emiliyanbrsv
+
+Emiliyanbrsv
 
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiliyanbrsv&show_icons=true&theme=tokyonight)
+<p aling="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahariev-webbersof&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliyanbrsv&theme=tokyonight)
+</p>
 
 
 <!---
