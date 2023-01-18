@@ -8,8 +8,7 @@
 
 
 
-<p1 align="center">
-  ### My Stats:
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emiliyanbrsv&theme=tokyonight)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliyanbrsv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p1>
+### My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emiliyanbrsv&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliyanbrsv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
